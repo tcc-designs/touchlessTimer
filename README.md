@@ -3,7 +3,7 @@
   This project is in response to the Covid-19 outbreak of 2020. The intention is to provide a reliable 20 Second countdown timer that is triggered without physical contact.
   
   
-![Touchless Handwashing Timer](https://user-images.githubusercontent.com/43180738/79420087-06c5a380-7f6d-11ea-8f79-71600e453232.png)
+![Touchless Handwashing Timer](https://user-images.githubusercontent.com/43180738/79477698-5e8cfa80-7fbf-11ea-9231-f66d326bbacf.png)
 
 
 
