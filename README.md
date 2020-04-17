@@ -22,4 +22,5 @@
 * For running the seven segment display| https://github.com/sparkfun/SevSeg
 * For making a capacitive proximity sensor| https://playground.arduino.cc/Main/CapacitiveSensor/
 * For help with the using millis()|https://learn.adafruit.com/multi-tasking-the-arduino-part-1/ditch-the-delay
+* For the running average library| https://github.com/JChristensen/movingAvg
 
